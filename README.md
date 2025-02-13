@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-A simple Pomodoro timer application to help you manage your work and break sessions effectively. This project includes a timer for Pomodoro sessions and break sessions, along with logging functionality.
+A simple Pomodoro timer application to help you manage your work and break sessions effectively. This project includes a timer for Pomodoro sessions and break sessions, along with logging functionality. Try at https://pomorodo.glitch.me/
 
 ## Features
 
